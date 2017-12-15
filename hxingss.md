@@ -1,6 +1,11 @@
 # 红杏SS
+### 最新墙内地址
+- [hxingss.org](http://hxingss.org/)
 ### 永久域名
 - [hxingss.com](http://hxingss.com/)
 - 需要开启系统代理模式至全局模式访问。
-### 墙内地址
-- [hxingss.org](http://hxingss.org/)
+- 因为众所周知的原因，这个很正常，否则只能说明我们做的不够好。
+- 这不会对代理速度有任何影响，只会在续费时，给找不到路的朋友造成困扰。
+### 联系我们
+- 有任何疑问，请联系我们
+- Email：support@hxingss.com
