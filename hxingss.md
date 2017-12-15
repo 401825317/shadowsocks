@@ -1,4 +1,4 @@
-# 红杏SS
+
 ### 最新墙内地址
 - [hxingss.org](http://hxingss.org/)
 ### 永久域名
