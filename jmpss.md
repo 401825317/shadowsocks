@@ -1,7 +1,7 @@
 ### JmpSS Team
 ### 最新墙内地址：
-- 官方网站：[www.jmpss.org](http://www.jmpss.org/)
-- 用户中心：[manager.jmpss.org](http://manager.jmpss.org/)
+- 官方网站：[www.jmpss.com](http://www.jmpss.com/)
+- 用户中心：[manager.jmpss.com](http://manager.jmpss.com/)
 ### 说明
 - 永久域名：[jmpss.com](http://jmpss.com/)，没有被墙，能够正常访问。
 - 如果域名被墙，我们会第一时间在这里更新最新地址。
