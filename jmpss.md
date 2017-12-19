@@ -1,4 +1,4 @@
-### JmpSS
+### JmpSS Team
 ### 最新墙内地址：
 - 官方网站：[www.jmpss.org](http://www.jmpss.org/)
 - 用户中心：[manager.jmpss.org](http://manager.jmpss.org/)
