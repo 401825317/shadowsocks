@@ -1,4 +1,4 @@
-### BBAcloud
+### BBAcloud Team
 ### 最新墙内地址：
 - 官方网站：[www.bbacloud.com](http://www.bbacloud.com/)
 - 用户中心：[manager.bbacloud.com](http://manager.bbacloud.com/)
