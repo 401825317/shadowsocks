@@ -1,4 +1,4 @@
-### V7speed
+### V7speed Team
 ### 最新墙内地址：
 - 官方网站：[www.v7speed.com](http://www.v7speed.com/)
 - 用户中心：[manager.v7speed.com](http://manager.v7speed.com/)
