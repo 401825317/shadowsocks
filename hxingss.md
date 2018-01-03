@@ -1,7 +1,7 @@
 ### 红杏SS / HxingSS - 春色满园关不住，一枝红杏出墙来！
 ### 最新墙内地址：
-- 网站：[www.hxingss.org](http://www.hxingss.org)
-- 后台：[user.hxingss.org](http://user.hxingss.org)
+- 备用1：[www.hxingss.top](http://www.hxingss.top)
+- 备用2：[www.hxingss.org](http://www.hxingss.org)
 ### 说明
 - 永久域名：[hxingss.com](http://hxingss.com)，需要开启“系统代理模式”至“全局模式”访问。
 - 因为众所周知的原因，域名被墙很正常，否则只能说明我们做的不够好。
