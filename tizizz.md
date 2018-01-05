@@ -1,11 +1,10 @@
 ### 梯子zZ - 生活不止眼前的苟且，还有诗和远方！
-### 最新墙内地址：
-- 官方网站：[www.tizizz.com](http://www.tizizz.com/)
-- 用户中心：[manager.tizizz.com](http://manager.tizizz.com/)
-### 说明
-- 永久域名：[tizizz.com](http://tizizz.com/)，没有被墙，能够正常访问。
-- 如果域名被墙，我们会第一时间在这里更新最新地址。
-- 请收藏本链接：<https://github.com/tmxq56/shadowsocks/blob/tizizz/tizizz.md>
+### 重要通知：
+- 2018年1月3日起，服务器遭遇了大规模的攻击。
+- 补偿方案：所有付费用户使用时间延长一个月。
+- 同时，域名更换为：[tizivon.com](http://tizivon.com/)，以前的域名停止使用。
+- 节点信息有变动，请登陆用户中心查看。
+- 防走丢链接：<https://github.com/tmxq56/shadowsocks/blob/tizivon/tizivon.md>
 ### 关于
 - 有任何疑问，请联系我们。
-- Email：support@tizizz.com
+- Email：support@tizivon.com
