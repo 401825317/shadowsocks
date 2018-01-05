@@ -5,7 +5,7 @@
 - 同时，域名更换为：[tizivon.com](http://tizivon.com/)，以前的域名停止使用。
 - 节点信息有变动，请登陆用户中心查看。
 - 这里也不再更新墙内地址，防走丢链接请移步：
-<https://github.com/tmxq56/shadowsocks/blob/tizivon/tizivon.md>
+- <https://github.com/tmxq56/shadowsocks/blob/tizivon/tizivon.md>
 
 2018 年 01月 06日
 
