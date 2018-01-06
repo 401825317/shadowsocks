@@ -3,7 +3,7 @@
 - 网址：[www.showac.top](http://www.showac.top/)
 - 后台：[manager.showac.top](http://manager.showac.top/)
 ### 说明
-- 永久域名：[showac.com](http://showac.com/)，需要开启“系统代理模式”至“全局模式”访问。
+- 永久域名：[showac.com](http://showac.com/)，需要开启“系统代理模式”至“全局模式”访问。**（推荐）**
 - 因为众所周知的原因，域名被墙很正常，否则只能说明我们做的不够好。
 - 这不会对代理速度有任何影响，只会在续费时，给找不到路的朋友造成困扰。
 - 为避免尴尬，建议提前几天续费。
